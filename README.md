@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeLibano
+- 👋 Hi, I’m @DelLibano
 - 👀 I’m interested in SQL, C#, .Net MAUI and Xamarin Forms
 - 🌱 I’m currently working lightly with HTML, JavaScript and CSS
 - 💞️ I’m looking to collaborate on porting away from Silverlight
